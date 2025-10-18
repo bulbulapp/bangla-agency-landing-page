@@ -1,5 +1,5 @@
-<div align="center" style="display: none;">
-<p hidden> View your app in AI Studio: https://ai.studio/apps/drive/1a-WR3si2-UHA97qNFOr07PyC6YB5swkz</p>
+<div align="center" style="display: none;" text="View your app in AI Studio: https://ai.studio/apps/drive/1a-WR3si2-UHA97qNFOr07PyC6YB5swkz">
+
 </div>
 
 # Run and deploy your AI Studio app
